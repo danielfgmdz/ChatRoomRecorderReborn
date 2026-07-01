@@ -2,6 +2,8 @@
 
 <h2 align="center">ChatRoomRecorderReborn is an open source project to record Chaturbate, BongaCams, Stripchat, Flirt4Free, CamSoda and Cam4 shows with no limitations!</h2>
 
+This project is based on https://github.com/SagalVanderklok/ChatRoomRecorder, which is currently outdated
+
 ### Features
 
 - Multiple websites - Supports the most popular Chaturbate, BongaCams, Stripchat, Flirt4Free, CamSoda and Cam4 websites
